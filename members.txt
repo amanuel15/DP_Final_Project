@@ -1,0 +1,18 @@
+===== A sales system with user types and more ======
+Amanuel Genene……………………….ATE/5124/09
+Amanuel Minas …………………………ATE/5339/09
+Ayub Wassie………………………………ATE/5128/09
+Bezabih zewdu…………………………..ATE/5259/09
+Daniel T/yohannes …………………….ATE/5146/09
+Eyob Alemayehu………………………..ATE/5153/09
+Sibhat Teshome…...……………………ATE/5210/09
+
+
+============patterns included================
+Factory
+Singelton
+composite
+proxy
+state
+strategy
+
